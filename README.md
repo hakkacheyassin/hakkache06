@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning. **Angular and spring boot**
 
-- 💬 Ask me about **Problem solving , Java, C , C++ ,Angular, PHP, MY SQL**
+- 💬 Ask me about **Problem solving , Java, C , C++,C# ,Angular, PHP, MYSQL,JS**
 
 - 📫 How to reach me **hakkacheyassin@gmail.com**
 
