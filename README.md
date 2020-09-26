@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="me 2.jpeg" alt="hakkache06" width="459" height="300" /> </p>
+<p align="center"> <img src="me 2.jpeg" alt="hakkache06" width="459" height="300" /> </p>
 
 
 
