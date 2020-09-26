@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://github.com/hakkache06/hakkache06/me 2.jpeg" alt="hakkache06" /> </p>
+<p align="left"> <img src="me 2.jpeg" alt="hakkache06" /> </p>
 
 
 
