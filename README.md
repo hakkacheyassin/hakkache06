@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakkache06" alt="hakkache06" /> </p>
 
-- 🌱 I’m currently learning. **Angular and spring boot**
+- 🌱 I’m currently learning. **Reactjs**
 
-- 💬 Ask me about **Problem solving , Java, C , C++,C# ,ReactJs, PHP, MYSQL,JS**
+- 💬 Ask me about **Problem solving , Java, C , C++,C# ,Angular, PHP, MYSQL,JS**
 
 - 📫 How to reach me **hakkacheyassin@gmail.com**
 
