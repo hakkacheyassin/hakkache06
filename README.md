@@ -24,4 +24,4 @@
 <a href="https://fb.com/https://www.facebook.com/hakkache.yassin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/hakkache.yassin" height="30" width="30" /></a>
 <a href="https://instagram.com/hakkacheyassine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hakkacheyassine" height="30" width="30" /></a>
 </p>
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=false&email=hide&login=yhakkach)
+![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=yhakkach)
