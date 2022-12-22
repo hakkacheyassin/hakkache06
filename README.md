@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning  **ReactJS**
 
-- 💬 Ask me about **Problem solving , Java, C , C++,C# ,Angular, PHP, MYSQL,JS**
+- 💬 Ask me about **Problem solving , Java, C , C++,Angular, PHP, MYSQL,JS**
 
 - 📫 How to reach me **hakkacheyassin@gmail.com**
 
