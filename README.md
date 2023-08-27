@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakkache06" alt="hakkache06" /> </p>
 
-- 🌱 I’m currently learning  **ReactJS**
-
 - 💬 Ask me about **Problem solving , Java, C , C++, Js**
 
 - 📫 How to reach me **hakkacheyassin@gmail.com**
